@@ -19,16 +19,12 @@ MAPS = {
         "FFFH",
         "HFFG"
     ],
-    "8x8": [
-        "SFFFFFFF",
-        "FFFFFFFF",
-        "FFFHFFFF",
-        "FFFFFHFF",
-        "FFFHFFFF",
-        "FHHFFFHF",
-        "FHFFHFHF",
-        "FFFHFFFG"
-    ],
+    "5x5": [
+        "SFFFF",
+        "FHFHF",
+        "FFFHF",
+        "HFFFF",
+        "HFHFG"],
 }
 
 
